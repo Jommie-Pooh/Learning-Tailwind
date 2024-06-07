@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hide {
+  display: none !important;
+}
+
+.services-card {
+  margin-bottom: 30px !important;
+}
